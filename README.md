@@ -1,7 +1,7 @@
 # Análise Técnica de Projetos Reais no GitHub
 
 **Nome do arquivo:** `pac6_github_lucas.md`  
-**Aluno:** Lucas  
+**Aluno:** Lucas de Carvalho Steffens
 **Disciplina:** Engenharia de Software  
 **Entrega:** 23/06  
 
@@ -126,10 +126,6 @@ functions:
 Permite execução sob demanda com escalabilidade automática e economia de recursos.
 
 ---
-
-## 📄 Documento PDF
-
-Você pode acessar o relatório completo em PDF no arquivo `pac6_github_lucas.pdf` incluído neste repositório.
 
 ## 🛠️ Tecnologias Exploradas
 
